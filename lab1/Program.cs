@@ -111,16 +111,16 @@ namespace Lab1
 
         static void Main()
         {
-            //RunFirst();
-            //Console.WriteLine();
+            RunFirst();
+            Console.WriteLine();
             RunSecond();
-            //Console.WriteLine();
-            //RunThird();
-            //Console.WriteLine();
-            //RunFourth();
-            //Console.WriteLine();
-            //RunTask2();
-            //RunTask3();
+            Console.WriteLine();
+            RunThird();
+            Console.WriteLine();
+            RunFourth();
+            Console.WriteLine();
+            RunTask2();
+            RunTask3();
         }
     }
 }
